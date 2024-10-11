@@ -2,7 +2,7 @@
 
 jogo clone de flappybird feito com pygame.
 
-![gif do jogo](./flappy_py.gif)
+![gif do jogo](https://mega.nz/file/mctwRD7B#X-l086eHQOSWI-ui4QoPev8btgeY1eJvG_H5NWvjai4)
 
 **Instalação:**
 
